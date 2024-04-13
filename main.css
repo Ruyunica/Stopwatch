@@ -1,0 +1,22 @@
+h3{
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 15px;
+}
+
+#time{
+    font-size: 55px;
+    padding-left: 45px;
+    padding-bottom: 30px;
+}
+
+.stopwatchButtonContainer{
+    padding-left: 15px;
+}
+
+#start, #stop, #reset{
+    font-size: 18px;
+    width: 6em;
+    height: 3em;
+    font-weight: bold;
+}
